@@ -1,0 +1,2 @@
+# tsmom
+simple momentum strategy
